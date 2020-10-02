@@ -3,7 +3,7 @@
   "description": "Common Bundle",
   "version": "1.0.0",
   "type": "symfony-bundle",
-  "license": "proprietary",
+  "license": "mit",
   "authors": [
     {
       "name": "Jean Soares Fernandes",
