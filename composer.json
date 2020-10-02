@@ -1,0 +1,30 @@
+{
+  "name": "jeansf/common-bundle",
+  "description": "Common Bundle",
+  "version": "1.0.0",
+  "type": "symfony-bundle",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jean Soares Fernandes",
+      "email": "contato@jean.dev.br"
+    }
+  ],
+  "require": {
+    "php": "^7.4",
+    "ext-json": "*",
+    "symfony/framework-bundle": "^5.1",
+    "symfony/security-core": "^5.1",
+    "doctrine/orm": "^2.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jeansf\\Common\\": "src/"
+    }
+  },
+  "extra" : {
+    "branch-alias" : {
+            "dev-master" : "dev"
+        }
+    }
+}
