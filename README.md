@@ -7,7 +7,7 @@
 >config/services.yml
 >```
 >parameters:
->   pix_common_user_entity: App\Entity\User
+>   common_user_entity: App\Entity\User
 >```
 >Utilizado para relacionamento com a entidade User
 >
