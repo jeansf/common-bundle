@@ -21,10 +21,5 @@
     "psr-4": {
       "Jeansf\\Common\\": "src/"
     }
-  },
-  "extra" : {
-    "branch-alias" : {
-            "dev-master" : "dev"
-        }
-    }
+  }
 }
